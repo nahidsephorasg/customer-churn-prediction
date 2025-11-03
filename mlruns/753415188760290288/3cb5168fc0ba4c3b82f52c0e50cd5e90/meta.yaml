@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/3cb5168fc0ba4c3b82f52c0e50cd5e90/artifacts
+end_time: 1762181634577
+entry_point_name: ''
+experiment_id: '753415188760290288'
+lifecycle_stage: active
+run_id: 3cb5168fc0ba4c3b82f52c0e50cd5e90
+run_name: model_comparison
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762181634566
+status: 4
+tags: []
+user_id: mmondol

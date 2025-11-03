@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/be0fd7f8c2444bf78f4a12cc15360dfa/artifacts
+end_time: 1762181908116
+entry_point_name: ''
+experiment_id: '753415188760290288'
+lifecycle_stage: active
+run_id: be0fd7f8c2444bf78f4a12cc15360dfa
+run_name: decision_tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762181906024
+status: 3
+tags: []
+user_id: mmondol

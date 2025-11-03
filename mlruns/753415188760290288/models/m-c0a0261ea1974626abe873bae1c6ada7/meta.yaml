@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/models/m-c0a0261ea1974626abe873bae1c6ada7/artifacts
+creation_timestamp: 1762181986495
+experiment_id: '753415188760290288'
+last_updated_timestamp: 1762181988156
+model_id: m-c0a0261ea1974626abe873bae1c6ada7
+model_type: null
+name: svm_model
+source_run_id: 7612a97a3afc4ebc811e64b1952bfe2c
+status: 2
+status_message: null

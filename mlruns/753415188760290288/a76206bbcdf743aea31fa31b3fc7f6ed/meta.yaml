@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/a76206bbcdf743aea31fa31b3fc7f6ed/artifacts
+end_time: 1762181578780
+entry_point_name: ''
+experiment_id: '753415188760290288'
+lifecycle_stage: active
+run_id: a76206bbcdf743aea31fa31b3fc7f6ed
+run_name: adaboost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762181575873
+status: 3
+tags: []
+user_id: mmondol

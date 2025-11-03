@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/00bcedde04e3496db8dfbc1b1a766e42/artifacts
+end_time: 1762181910500
+entry_point_name: ''
+experiment_id: '753415188760290288'
+lifecycle_stage: active
+run_id: 00bcedde04e3496db8dfbc1b1a766e42
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762181908126
+status: 3
+tags: []
+user_id: mmondol

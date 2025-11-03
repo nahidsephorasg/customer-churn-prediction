@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/531faeeee4a541a1a028926d83feee9e/artifacts
+end_time: 1762181561986
+entry_point_name: ''
+experiment_id: '753415188760290288'
+lifecycle_stage: active
+run_id: 531faeeee4a541a1a028926d83feee9e
+run_name: svm_classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762181559281
+status: 3
+tags: []
+user_id: mmondol

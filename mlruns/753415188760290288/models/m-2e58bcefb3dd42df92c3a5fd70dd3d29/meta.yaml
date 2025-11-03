@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/models/m-2e58bcefb3dd42df92c3a5fd70dd3d29/artifacts
+creation_timestamp: 1762181699876
+experiment_id: '753415188760290288'
+last_updated_timestamp: 1762181701737
+model_id: m-2e58bcefb3dd42df92c3a5fd70dd3d29
+model_type: null
+name: decision_tree_model
+source_run_id: b96fcc0362274925b4324a76e591a571
+status: 2
+status_message: null

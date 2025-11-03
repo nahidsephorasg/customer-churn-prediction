@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/models/m-5783da4fd770466d8e619c8ac888f7cd/artifacts
+creation_timestamp: 1762181980404
+experiment_id: '753415188760290288'
+last_updated_timestamp: 1762181982062
+model_id: m-5783da4fd770466d8e619c8ac888f7cd
+model_type: null
+name: random_forest_model
+source_run_id: 73331a16462146bf83365dda3aca77bd
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/models/m-f0e46ca281e14e37b8d4aa5c5818c4a1/artifacts
+creation_timestamp: 1762181988769
+experiment_id: '753415188760290288'
+last_updated_timestamp: 1762181990540
+model_id: m-f0e46ca281e14e37b8d4aa5c5818c4a1
+model_type: null
+name: adaboost_model
+source_run_id: 7029fe47ee8f440c8429c589d691ce1f
+status: 2
+status_message: null

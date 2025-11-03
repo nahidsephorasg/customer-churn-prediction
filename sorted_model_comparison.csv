@@ -1,0 +1,8 @@
+Model,Accuracy
+Logistic Regression,80.01
+SVM,79.84
+XGBoost,79.06
+Decision Tree,78.89
+KNN,76.99
+Random Forest,73.72
+AdaBoost,73.72

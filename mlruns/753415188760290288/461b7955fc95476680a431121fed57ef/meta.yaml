@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/461b7955fc95476680a431121fed57ef/artifacts
+end_time: 1762181699769
+entry_point_name: ''
+experiment_id: '753415188760290288'
+lifecycle_stage: active
+run_id: 461b7955fc95476680a431121fed57ef
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762181696255
+status: 3
+tags: []
+user_id: mmondol

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/models/m-d97892b7c35e4bb7a3f28d1ae48f5967/artifacts
+creation_timestamp: 1762181984478
+experiment_id: '753415188760290288'
+last_updated_timestamp: 1762181986014
+model_id: m-d97892b7c35e4bb7a3f28d1ae48f5967
+model_type: null
+name: kneighbors_model
+source_run_id: 7be282d9124a4792b33756a69a5a993e
+status: 2
+status_message: null

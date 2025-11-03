@@ -1,0 +1,6 @@
+destination_id: m-dc495010e1944b5a9765158fd1e4facc
+destination_type: MODEL_OUTPUT
+source_id: m-dc495010e1944b5a9765158fd1e4facc
+source_type: RUN_OUTPUT
+step: 0
+tags: {}

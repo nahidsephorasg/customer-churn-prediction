@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mmondol/Documents/personal/learning-all/MLOps/customer-churn-mlops/mlruns/753415188760290288/models/m-7fa9509835034377964894983c5afd46/artifacts
+creation_timestamp: 1762181697742
+experiment_id: '753415188760290288'
+last_updated_timestamp: 1762181699764
+model_id: m-7fa9509835034377964894983c5afd46
+model_type: null
+name: logistic_regression_model
+source_run_id: 461b7955fc95476680a431121fed57ef
+status: 2
+status_message: null
